@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="128px" height="128px" viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#85AD2D;}
+	.st1{fill:#DFB36B;}
+	.st2{fill:#EAE3CA;}
+	.st3{fill:#3A4DDB;}
+	.st4{fill:none;stroke:#EAE3CA;stroke-width:20;stroke-miterlimit:10;}
+</style>
+<g id="grass">
+	<rect class="st0" width="128" height="128"/>
+</g>
+<g id="city">
+	<polygon class="st1" points="96,32 128,0 0,0 32,32 	"/>
+</g>
+<g id="road">
+	<path class="st4" d="M128,64c-35.3,0-64,28.7-64,64"/>
+</g>
+</svg>
