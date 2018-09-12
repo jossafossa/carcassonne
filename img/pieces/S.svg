@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="128px" height="128px" viewBox="128 384 128 128" style="enable-background:new 128 384 128 128;" xml:space="preserve">
+	 width="128px" height="128px" viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#85AD2D;}
-	.st1{fill:#DFB36B;}
-	.st2{fill:#3A4DDB;}
-	.st3{fill:none;stroke:#EAE3CA;stroke-width:20;stroke-miterlimit:10;}
+	.st0{fill:#86AE3F;}
+	.st1{fill:none;stroke:#EAE3CA;stroke-width:20;stroke-miterlimit:10;}
+	.st2{fill:#DFB36B;}
+	.st3{fill:#4B5AA8;}
 </style>
-<rect x="128" y="384" class="st0" width="128" height="128"/>
-<g id="city">
-	<polygon class="st1" points="128,384 128,512 160,480 224,480 256,512 256,384 	"/>
-</g>
+<rect class="st0" width="128" height="128"/>
 <g>
-	<line class="st3" x1="192" y1="480" x2="192" y2="512"/>
+	<line class="st1" x1="64" y1="96" x2="64" y2="128"/>
 </g>
+<g id="city_14_">
+	<polygon class="st2" points="0,0 0,128 35.5,100.5 96,96 128,128 128,0 	"/>
+</g>
+<circle class="st3" cx="21.8" cy="21.7" r="10.3"/>
 </svg>
