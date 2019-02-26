@@ -20,20 +20,21 @@ $(document).ready(function() {
 	    this.rotation = 0;
 	    this.name = name;
 
-	    console.log(this.cities);
+	  	console.log("settings before rotation:", this.roads, this.cities, this.buildings);
 	  }
 
 	  rotate(dir) {
-	  	for(var i = 0; i < this.cities.length; i++){
-	  		for(var j = 0; j < this.cities[i][0].length; j++){
+	  	console.log("settings before rotation:", this.roads, this.cities, this.buildings);
+	  	for(var i = 0; i < this.cities.length; i++) {
+	  		for(var j = 0; j < this.cities[i][0].length; j++) {
 	  			var city = this.cities[i][0][j];
 	  			this.cities[i][0][j] = (city + dir > 3) ? 0 : (city + dir < 0) ? 3 : city + dir;
 	  			console.log(this.cities[i][0][j]);
 	  		}
 	  	}
 
-	  	for(var i = 0; i < this.roads.length; i++){
-	  		for(var j = 0; j < this.roads[i].length; j++){
+	  	for(var i = 0; i < this.roads.length; i++) {
+	  		for(var j = 0; j < this.roads[i].length; j++) {
 	  			var road = this.roads[i][j];
 	  			this.roads[i][j] = (road + dir > 3) ? 0 : (road + dir < 0) ? 3 : road + dir;
 	  			console.log(this.roads[i][j]);
